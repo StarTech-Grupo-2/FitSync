@@ -9,10 +9,19 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
-Josiane Batista - [github](https://github.com/josibatista )  
-Leticia Bento - [github](https://github.com/lettiebento)   
-Maria Clara Nascimento de Jesus - [github](https://github.com/mariandj)  
-Pamela Berti - [github](https://github.com/pamms2)  
+Josiane Batista        - [https://github.com/josibatista](https://github.com/josibatista )  
+Leticia Bento          - [https://github.com/lettiebento](https://github.com/lettiebento)   
+Maria Clara Nascimento - [https://github.com/mariandj](https://github.com/mariandj)  
+Pamela Berti           - [https://github.com/pamms2](https://github.com/pamms2)
+
+<!-- essa é uma forma de deixar alinhado, mas não sei se é a melhor
+| Nome                  | GitHub Link                           |
+|-----------------------|---------------------------------------|
+| Josiane Batista       | [https://github.com/josibatista](https://github.com/josibatista) |
+| Leticia Bento         | [https://github.com/lettiebento](https://github.com/lettiebento) |
+| Maria Clara Nascimento| [https://github.com/mariandj](https://github.com/mariandj) |
+| Pamela Berti          | [https://github.com/pamms2](https://github.com/pamms2) |
+-->
 
 ***1.2.  Nome do Sistema***
 
@@ -20,13 +29,15 @@ FitSync
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+  O aplicativo propõe gerenciar os treinos dos usuários com uma abordagem interativa entre eles, permitindo o compartilhamento de metas e rotinas de treino, promovendo assim um ambiente de incentivo mútuo.  
+ A StarTech entende que resolver desafios como a falta de engajamento, a desistência de usuários, a dificuldade na gestão de treinos e o acompanhamento de progressos, além de democratizar o acesso a informações de treinos personalizados e nutrição, é tanto vantajoso quanto estratégico.   
+Em resposta a esses problemas, e alinhada à crescente tendência de uma vida saudável e à busca pela otimização de tempo e economia de dinheiro, a aplicação integra alimentação e treino, além de apresentar uma IA especializada que fornece treinos e rotinas saudáveis na alimentação, proporcionando uma experiência personalizada e acessível. Essa abordagem torna o aplicativo uma solução promissora.  
+  Entre os diferenciais da aplicações estão: A gamificação entre usuários, que incentiva a assiduidade nos treinos ao registrar a sequência de dias em que o usuário realiza atividades físicas e a IA que personaliza as rotinas de treino e alimentação.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Pessoas que já praticam atividades físicas e buscam gerenciar seus treinos e manter a motivação.
+
 
 ***1.3. Descrição dos usuários***
 
