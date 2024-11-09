@@ -34,12 +34,12 @@ FitSync
 Em resposta a esses problemas, e alinhada à crescente tendência de uma vida saudável e à busca pela otimização de tempo e economia de dinheiro, a aplicação integra alimentação e treino, além de apresentar uma IA especializada que fornece treinos e rotinas saudáveis na alimentação, proporcionando uma experiência personalizada e acessível. Essa abordagem torna o aplicativo uma solução promissora.  
   Entre os diferenciais da aplicações estão: A gamificação entre usuários, que incentiva a assiduidade nos treinos ao registrar a sequência de dias em que o usuário realiza atividades físicas e a IA que personaliza as rotinas de treino e alimentação.
 
-***1.2.  Público Alvo***
+***1.4.  Público Alvo***
 
 Pessoas que já praticam atividades físicas e buscam gerenciar seus treinos e manter a motivação.
 
 
-***1.3. Descrição dos usuários***
+***1.5. Descrição dos usuários***
 
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
