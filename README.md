@@ -9,10 +9,10 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
-Josiane Batista - [github](https://github.com/josibatista )
-Leticia Bento - [github](https://github.com/lettiebento)
-Maria Clara Nascimento de Jesus - [github](https://github.com/mariandj)
-Pamela Berti - [github](https://github.com/pamms2)
+Josiane Batista - [github](https://github.com/josibatista )  
+Leticia Bento - [github](https://github.com/lettiebento)   
+Maria Clara Nascimento de Jesus - [github](https://github.com/mariandj)  
+Pamela Berti - [github](https://github.com/pamms2)  
 
 ***1.2.  Nome do Sistema***
 
