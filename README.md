@@ -9,11 +9,14 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Josiane Batista - [github](https://github.com/josibatista )
+Leticia Bento - [github](https://github.com/lettiebento)
+Maria Clara Nascimento de Jesus - [github](https://github.com/mariandj)
+Pamela Berti - [github](https://github.com/pamms2)
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+FitSync
 
 ***1.3.  Propósito do Sistema***
 
