@@ -36,7 +36,7 @@ Em resposta a esses problemas, e alinhada à crescente tendência de uma vida sa
 
 ***1.4.  Público Alvo***
 
-Pessoas que já praticam atividades físicas e buscam gerenciar seus treinos e manter a motivação.
+Pessoas que já possuem ou desejam iniciar uma rotina de atividades físicas e estão em busca de recursos para monitorar tanto seus treinos quanto sua evolução nutricional, com o objetivo de manter a motivação e alcançar resultados de forma consistente.
 
 
 ***1.5. Descrição dos usuários***
