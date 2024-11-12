@@ -68,6 +68,7 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 ***Análise da situação atual: antes da introdução de sua solução***
 
 *`1. O que as pessoas fazem?`*
+
 Muitos usuários tentam manter uma rotina de treinos, registrando o progresso em cadernos, planilhas ou aplicativos não integrados. A continuidade é um desafio, e muitos desistem por falta de motivação.
 
 Algumas recorrem a personal trainers e nutricionistas, mas o acesso a esses serviços é limitado por questões financeiras. Isso cria uma barreira para aqueles que buscam orientação personalizada para atingir seus objetivos de saúde.
