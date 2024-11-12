@@ -68,13 +68,32 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 ***Análise da situação atual: antes da introdução de sua solução***
 
 *`1. O que as pessoas fazem?`*
+Muitos usuários tentam manter uma rotina de treinos, registrando o progresso em cadernos, planilhas ou aplicativos não integrados. A continuidade é um desafio, e muitos desistem por falta de motivação.
+
+Algumas recorrem a personal trainers e nutricionistas, mas o acesso a esses serviços é limitado por questões financeiras. Isso cria uma barreira para aqueles que buscam orientação personalizada para atingir seus objetivos de saúde.
+
 *`2. Quais os artefatos envolvidos?`*
+
+Aplicativos de treino (nem sempre integrados a outras funcionalidades), sites e redes sociais que oferecem conteúdos de saúde e dicas rápidas, e planilhas ou cadernos físicos usados para o registro manual de progresso.
+
+
 *`3. O que elas precisam saber?`*
+
+Como criar e manter uma rotina de treinos com base em seus objetivos e níveis de condicionamento, incluindo progressão e variações nos exercícios.
+
+
+Como registrar e acompanhar seu progresso de forma organizada, permitindo que eles visualizem sua evolução de forma clara e motivadora.
+
+
+Qual é a melhor dieta e plano de treino para suas necessidades individuais.
+
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
 *`1. O que as pessoas fazem?`*
+
 *`2. Quais os artefatos envolvidos?`*
+
 *`3. O que elas precisam saber?`*
 
 ***Cenário: Antes***
