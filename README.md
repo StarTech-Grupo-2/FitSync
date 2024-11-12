@@ -71,7 +71,18 @@ Pessoas que já praticam atividades físicas e buscam gerenciar seus treinos e m
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+| Identificador | Descrição |
+|---------------|------------|
+| RF001 | O software deve permitir ao usuário realizar seu cadastro e login |
+| RF002 | O software deve permitir ao usuário logado que registre seu treino |
+| RF003 | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios |
+| RF004 | O software deve permitir que o usuário adicione outros usuários ao seu perfil |
+| RF005 | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil |
+| RF006 | O software deve enviar ao usuários notificações da dieta e água |
+| RF007 | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas |
+| RF008 | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água |
+| RF009 | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada |
+| RF010 | O software deve permitir que o usuário assine o plano premium |
 
 ***2.2. Requisitos Não Funcionais***
 
