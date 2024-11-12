@@ -61,9 +61,6 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 | **Frequência de treinos:** 5 a 6 vezes na semana        | **Frequência de treinos:** 2 a 3 vezes na semana       |
 
 
-
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
-
 ***Personas:***
 
 *<Imagem, arquivo (PDF), link com as Personas.>*
