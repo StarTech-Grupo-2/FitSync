@@ -41,6 +41,18 @@ Pessoas que já praticam atividades físicas e buscam gerenciar seus treinos e m
 
 ***1.5. Descrição dos usuários***
 
+| **Perfil do Usuário A**                                 | **Perfil do Usuário B**                                |
+|---------------------------------------------------------|--------------------------------------------------------|
+| **Porcentagem de usuário:** 75%                         | **Porcentagem de usuário:** 25%                        |
+| **Faixa etária:** [18, 25]                              | **Faixa etária:** [30, 60]                             |
+| **Gênero:** 55% masculino, 45% feminino                 | **Gênero:** 40% masculino, 60% feminino                |
+| **Frequência de uso de smartphone:** Muito alta, mais de 5 horas por dia | **Frequência de uso de smartphone:** Moderada, menos de 5 horas por dia |
+| **Estilo de aprendizado:** Aprende usando              | **Estilo de aprendizado:** Aprendem perguntando        |
+| **Faz dieta:** Sim, focada em hipertrofia e definição muscular com baixo consumo de carboidratos e alto em proteínas | **Faz dieta:** Sim, focada em saúde e longevidade      |
+| **Frequência de treinos:** 5 a 6 vezes na semana        | **Frequência de treinos:** 2 a 3 vezes na semana       |
+
+
+
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ***Personas:***
