@@ -41,6 +41,15 @@ Pessoas que já possuem ou desejam iniciar uma rotina de atividades físicas e e
 
 ***1.5. Descrição dos usuários***
 
+Os usuários finais do sistema se dividem em dois perfis principais, com características e necessidades distintas:
+
+
+Perfil do Usuário A: Esse perfil é composto por jovens de 18 a 25 anos, representando 75% do público total e com uma leve maioria masculina. Esses usuários têm uma grande familiaridade com o smartphone, utilizando-o ao longo do dia. Aprendem melhor na prática, preferindo explorar para adquirir novas habilidades. Eles seguem uma dieta voltada para o ganho de massa muscular e definição, priorizando proteínas e restringindo carboidratos. Costumam manter uma rotina intensa de exercícios, treinando quase todos os dias da semana.
+
+
+Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado por pessoas entre 30 e 60 anos, com predominância feminina. Esses usuários fazem um uso moderado do smartphone e preferem aprender através de questionamentos e busca por informações detalhadas. Estão focados em uma alimentação equilibrada para melhorar a saúde e aumentar a longevidade. Sua rotina de exercícios é mais leve e espaçada, com treinos algumas vezes na semana.
+
+
 | **Perfil do Usuário A**                                 | **Perfil do Usuário B**                                |
 |---------------------------------------------------------|--------------------------------------------------------|
 | **Porcentagem de usuário:** 75%                         | **Porcentagem de usuário:** 25%                        |
