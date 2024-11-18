@@ -69,29 +69,21 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 
 *`1. O que as pessoas fazem?`*
 
-Muitos usuários tentam manter uma rotina de treinos, registrando o progresso em cadernos, planilhas ou aplicativos não integrados. A continuidade é um desafio, e muitos desistem por falta de motivação.
-
-Algumas recorrem a personal trainers e nutricionistas, mas o acesso a esses serviços é limitado por questões financeiras. Isso cria uma barreira para aqueles que buscam orientação personalizada para atingir seus objetivos de saúde.
+Muitos usuários tentam manter uma rotina de treinos registrando o progresso em cadernos, planilhas ou aplicativos não integrados. Além disso, reconhecem a necessidade de serviços como personal trainers e nutricionistas para melhores resultados, mas esses serviços são inacessíveis para muitos devido ao custo. Frequentemente, negligenciam a importância da hidratação adequada, não atingindo as metas diárias de consumo de água. A falta de motivação é um grande desafio, levando muitos a desistirem de hábitos saudáveis.
 
 *`2. Quais os artefatos envolvidos?`*
 
-Aplicativos de treino (nem sempre integrados a outras funcionalidades), sites e redes sociais que oferecem conteúdos de saúde e dicas rápidas, e planilhas ou cadernos físicos usados para o registro manual de progresso.
-
+Aplicativos de treino, plataformas oferecidas pelas academias (que raramente integram áreas como nutrição), sites e redes sociais com dicas de saúde, além de planilhas digitais e cadernos físicos para registros manuais de progresso.
 
 *`3. O que elas precisam saber?`*
 
-Como criar e manter uma rotina de treinos com base em seus objetivos e níveis de condicionamento, incluindo progressão e variações nos exercícios.
-
-
-Como registrar e acompanhar seu progresso de forma organizada, permitindo que eles visualizem sua evolução de forma clara e motivadora.
-
-
-Qual é a melhor dieta e plano de treino para suas necessidades individuais.
+Como desenvolver e manter uma rotina de treinos alinhada aos seus objetivos e condicionamento físico, incluindo progressões e variações. Como registrar e acompanhar seu progresso de forma clara e motivadora. Quais planos de treino e dieta são mais adequados às suas necessidades individuais, considerando saúde e objetivos pessoais.
 
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
 *`1. O que as pessoas fazem?`*
+
 
 *`2. Quais os artefatos envolvidos?`*
 
