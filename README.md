@@ -73,7 +73,7 @@ Muitos usuários tentam manter uma rotina de treinos registrando o progresso em 
 
 *`2. Quais os artefatos envolvidos?`*
 
-Aplicativos de treino, plataformas oferecidas pelas academias (que raramente integram áreas como nutrição), sites e redes sociais com dicas de saúde, além de planilhas digitais e cadernos físicos para registros manuais de progresso.
+Aplicativos de treino e plataformas oferecidas pelas academias - que raramente integram áreas como nutrição. Sites e redes sociais com dicas de saúde. Além de planilhas digitais e cadernos físicos para registros manuais de progresso.
 
 *`3. O que elas precisam saber?`*
 
@@ -84,10 +84,16 @@ Como desenvolver e manter uma rotina de treinos alinhada aos seus objetivos e co
 
 *`1. O que as pessoas fazem?`*
 
+Com o aplicativo FitSync, os usuários conseguem acessar um sistema integrado para acompanhar treinos, dieta e consumo de água em um único lugar. Eles podem gerenciar suas rotinas personalizadas, consultando uma IA treinada para criar planos específicos de treino e alimentação focados em seus objetivos. O app também envia notificações personalizadas ao longo do dia para lembrá-los de treinar, seguir a dieta e manter a hidratação, ajudando-os a cumprir suas metas de forma prática e organizada.
 
 *`2. Quais os artefatos envolvidos?`*
 
+O aplicativo FitSync, que oferece uma integração completa entre a gestão de treinos, dieta e consumo de água, além de funcionalidades personalizadas como notificações e sugestões da IA integrada.
+
 *`3. O que elas precisam saber?`*
+
+Os usuários precisam aprender a utilizar o aplicativo FitSync e explorar suas funcionalidades para atingir seus objetivos. Para usuários da versão gratuita, é necessário já terem um treino e uma dieta definidos.
+
 
 ***Cenário: Antes***
 
