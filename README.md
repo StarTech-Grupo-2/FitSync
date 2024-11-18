@@ -97,7 +97,13 @@ Os usuários precisam aprender a utilizar o aplicativo FitSync e explorar suas f
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Gabriel é um estudante universitário e praticante ativo de musculação. Ele utiliza planilhas no Google Sheets e anotações no celular para registrar seus treinos e dieta. Apesar de ser organizado, Gabriel sente dificuldade em manter tudo atualizado e centralizado, o que o faz perder tempo organizando informações em diferentes plataformas.  
+
+Ele tenta ajustar sua dieta manualmente, pesquisando alimentos e montando refeições baseadas em suas metas de proteínas e carboidratos. Além disso, Gabriel usa aplicativos de redes sociais para compartilhar seu progresso com amigos e acompanhar desafios, mas o processo é desarticulado e exige múltiplos aplicativos. Isso o deixa frustrado por não conseguir integrar tudo em um só lugar.  
+
+Com sua rotina intensa de estudos e academia, Gabriel frequentemente esquece de acompanhar sua hidratação, o que impacta negativamente seu desempenho nos treinos. Ele sente que não está atingindo seu potencial máximo por falta de uma ferramenta que facilite esse controle.
+
+
 
 ***Cenário: Depois***
 
