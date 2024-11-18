@@ -104,10 +104,14 @@ Ele tenta ajustar sua dieta manualmente, pesquisando alimentos e montando refei�
 Com sua rotina intensa de estudos e academia, Gabriel frequentemente esquece de acompanhar sua hidratação, o que impacta negativamente seu desempenho nos treinos. Ele sente que não está atingindo seu potencial máximo por falta de uma ferramenta que facilite esse controle.
 
 
-
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Gabriel utiliza o FitSync para centralizar todas as informações relacionadas à sua rotina de treinos e dieta. Após baixar o aplicativo, ele cria um perfil, assina o plano premium e insere suas metas de ganho muscular e definição. A partir disso, o FitSync sugere treinos personalizados, adequados à sua rotina, e uma dieta com foco em alto consumo proteico e controle de carboidratos, que ele pode ajustar facilmente.
+
+Com o FitSync, Gabriel registra seus treinos rapidamente no final de cada sessão, e acompanha seu progresso e metas alcançadas. Ele também monitora sua dieta inserindo as refeições com horários pré-definidos. As notificações inteligentes do FitSync lembram Gabriel dos treinos e refeições no horário definido e, também, de se hidratar em intervalos regulares. 
+
+Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo integrado, ele tem mais tempo para focar nos estudos e treinos, enquanto acompanha sua evolução de forma prática e motivadora em um único sistema.
+
 
 ## 2. Documentos gerais no repositório
 
