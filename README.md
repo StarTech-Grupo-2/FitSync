@@ -29,10 +29,10 @@ FitSync
 
 ***1.3.  Propósito do Sistema***
 
-  O aplicativo propõe gerenciar os treinos dos usuários com uma abordagem interativa entre eles, permitindo o compartilhamento de metas e rotinas de treino, promovendo assim um ambiente de incentivo mútuo.  
- A StarTech entende que resolver desafios como a falta de engajamento, a desistência de usuários, a dificuldade na gestão de treinos e o acompanhamento de progressos, além de democratizar o acesso a informações de treinos personalizados e nutrição, é tanto vantajoso quanto estratégico.   
+O aplicativo propõe gerenciar os treinos dos usuários com uma abordagem interativa entre eles, permitindo o compartilhamento de metas e rotinas de treino, promovendo assim um ambiente de incentivo mútuo.  
+A StarTech entende que resolver desafios como a falta de engajamento, a desistência de usuários, a dificuldade na gestão de treinos e o acompanhamento de progressos, além de democratizar o acesso a informações de treinos personalizados e nutrição, é tanto vantajoso quanto estratégico.   
 Em resposta a esses problemas, e alinhada à crescente tendência de uma vida saudável e à busca pela otimização de tempo e economia de dinheiro, a aplicação integra alimentação e treino, além de apresentar uma IA especializada que fornece treinos e rotinas saudáveis na alimentação, proporcionando uma experiência personalizada e acessível. Essa abordagem torna o aplicativo uma solução promissora.  
-  Entre os diferenciais da aplicações estão: A gamificação entre usuários, que incentiva a assiduidade nos treinos ao registrar a sequência de dias em que o usuário realiza atividades físicas e a IA que personaliza as rotinas de treino e alimentação.
+Entre os diferenciais da aplicações estão: A função de competição entre usuários, que incentiva a assiduidade nos treinos ao registrar a sequência de dias em que o usuário realiza atividades físicas, e a IA que personaliza as rotinas de treino e alimentação.
 
 ***1.4.  Público Alvo***
 
@@ -69,41 +69,49 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 
 *`1. O que as pessoas fazem?`*
 
-Muitos usuários tentam manter uma rotina de treinos, registrando o progresso em cadernos, planilhas ou aplicativos não integrados. A continuidade é um desafio, e muitos desistem por falta de motivação.
-
-Algumas recorrem a personal trainers e nutricionistas, mas o acesso a esses serviços é limitado por questões financeiras. Isso cria uma barreira para aqueles que buscam orientação personalizada para atingir seus objetivos de saúde.
+Muitos usuários tentam manter uma rotina de treinos registrando o progresso em cadernos, planilhas ou aplicativos não integrados. Além disso, reconhecem a necessidade de serviços como personal trainers e nutricionistas para melhores resultados, mas esses serviços são inacessíveis para muitos devido ao custo. Frequentemente, negligenciam a importância da hidratação adequada, não atingindo as metas diárias de consumo de água. A falta de motivação é um grande desafio, levando muitos a desistirem de hábitos saudáveis.
 
 *`2. Quais os artefatos envolvidos?`*
 
-Aplicativos de treino (nem sempre integrados a outras funcionalidades), sites e redes sociais que oferecem conteúdos de saúde e dicas rápidas, e planilhas ou cadernos físicos usados para o registro manual de progresso.
-
+Aplicativos de treino e plataformas oferecidas pelas academias - que raramente integram áreas como nutrição. Sites e redes sociais com dicas de saúde. Além de planilhas digitais e cadernos físicos para registros manuais de progresso.
 
 *`3. O que elas precisam saber?`*
 
-Como criar e manter uma rotina de treinos com base em seus objetivos e níveis de condicionamento, incluindo progressão e variações nos exercícios.
-
-
-Como registrar e acompanhar seu progresso de forma organizada, permitindo que eles visualizem sua evolução de forma clara e motivadora.
-
-
-Qual é a melhor dieta e plano de treino para suas necessidades individuais.
+Como desenvolver e manter uma rotina de treinos alinhada aos seus objetivos e condicionamento físico, incluindo progressões e variações. Como registrar e acompanhar seu progresso de forma clara e motivadora. Quais planos de treino e dieta são mais adequados às suas necessidades individuais, considerando saúde e objetivos pessoais.
 
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
 *`1. O que as pessoas fazem?`*
 
+Com o aplicativo FitSync, os usuários conseguem acessar um sistema integrado para acompanhar treinos, dieta e consumo de água em um único lugar. Eles podem gerenciar suas rotinas personalizadas, consultando uma IA treinada para criar planos específicos de treino e alimentação focados em seus objetivos. O app também envia notificações personalizadas ao longo do dia para lembrá-los de treinar, seguir a dieta e manter a hidratação, ajudando-os a cumprir suas metas de forma prática e organizada.
+
 *`2. Quais os artefatos envolvidos?`*
+
+O aplicativo FitSync, que oferece uma integração completa entre a gestão de treinos, dieta e consumo de água, além de funcionalidades personalizadas como notificações e sugestões da IA integrada.
 
 *`3. O que elas precisam saber?`*
 
+Os usuários precisam aprender a utilizar o aplicativo FitSync e explorar suas funcionalidades para atingir seus objetivos. Para usuários da versão gratuita, é necessário já terem um treino e uma dieta definidos.
+
+
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Gabriel é um estudante universitário e praticante ativo de musculação. Ele utiliza planilhas no Google Sheets e anotações no celular para registrar seus treinos e dieta. Apesar de ser organizado, Gabriel sente dificuldade em manter tudo atualizado e centralizado, o que o faz perder tempo organizando informações em diferentes plataformas.  
+
+Ele tenta ajustar sua dieta manualmente, pesquisando alimentos e montando refeições baseadas em suas metas de proteínas e carboidratos. Além disso, Gabriel usa aplicativos de redes sociais para compartilhar seu progresso com amigos e acompanhar desafios, mas o processo é desarticulado e exige múltiplos aplicativos. Isso o deixa frustrado por não conseguir integrar tudo em um só lugar.  
+
+Com sua rotina intensa de estudos e academia, Gabriel frequentemente esquece de acompanhar sua hidratação, o que impacta negativamente seu desempenho nos treinos. Ele sente que não está atingindo seu potencial máximo por falta de uma ferramenta que facilite esse controle.
+
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Gabriel utiliza o FitSync para centralizar todas as informações relacionadas à sua rotina de treinos e dieta. Após baixar o aplicativo, ele cria um perfil, assina o plano premium e insere suas metas de ganho muscular e definição. A partir disso, o FitSync sugere treinos personalizados, adequados à sua rotina, e uma dieta com foco em alto consumo proteico e controle de carboidratos, que ele pode ajustar facilmente.
+
+Com o FitSync, Gabriel registra seus treinos rapidamente no final de cada sessão, e acompanha seu progresso e metas alcançadas. Ele também monitora sua dieta inserindo as refeições com horários pré-definidos. As notificações inteligentes do FitSync lembram Gabriel dos treinos e refeições no horário definido e, também, de se hidratar em intervalos regulares. 
+
+Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo integrado, ele tem mais tempo para focar nos estudos e treinos, enquanto acompanha sua evolução de forma prática e motivadora em um único sistema.
+
 
 ## 2. Documentos gerais no repositório
 
