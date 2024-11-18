@@ -29,10 +29,10 @@ FitSync
 
 ***1.3.  Propósito do Sistema***
 
-  O aplicativo propõe gerenciar os treinos dos usuários com uma abordagem interativa entre eles, permitindo o compartilhamento de metas e rotinas de treino, promovendo assim um ambiente de incentivo mútuo.  
- A StarTech entende que resolver desafios como a falta de engajamento, a desistência de usuários, a dificuldade na gestão de treinos e o acompanhamento de progressos, além de democratizar o acesso a informações de treinos personalizados e nutrição, é tanto vantajoso quanto estratégico.   
+O aplicativo propõe gerenciar os treinos dos usuários com uma abordagem interativa entre eles, permitindo o compartilhamento de metas e rotinas de treino, promovendo assim um ambiente de incentivo mútuo.  
+A StarTech entende que resolver desafios como a falta de engajamento, a desistência de usuários, a dificuldade na gestão de treinos e o acompanhamento de progressos, além de democratizar o acesso a informações de treinos personalizados e nutrição, é tanto vantajoso quanto estratégico.   
 Em resposta a esses problemas, e alinhada à crescente tendência de uma vida saudável e à busca pela otimização de tempo e economia de dinheiro, a aplicação integra alimentação e treino, além de apresentar uma IA especializada que fornece treinos e rotinas saudáveis na alimentação, proporcionando uma experiência personalizada e acessível. Essa abordagem torna o aplicativo uma solução promissora.  
-  Entre os diferenciais da aplicações estão: A gamificação entre usuários, que incentiva a assiduidade nos treinos ao registrar a sequência de dias em que o usuário realiza atividades físicas e a IA que personaliza as rotinas de treino e alimentação.
+Entre os diferenciais da aplicações estão: A função de competição entre usuários, que incentiva a assiduidade nos treinos ao registrar a sequência de dias em que o usuário realiza atividades físicas, e a IA que personaliza as rotinas de treino e alimentação.
 
 ***1.4.  Público Alvo***
 
