@@ -121,7 +121,7 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 | Identificador | Descrição |
 |---------------|------------|
-| RF001 | O software deve permitir ao usuário realizar seu cadastro e login |
+| RF001 | O software deve permitir ao usuário realizar seu cadastro com dados válidos |
 | RF002 | O software deve permitir ao usuário logado que registre seu treino |
 | RF003 | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios |
 | RF004 | O software deve permitir que o usuário adicione outros usuários ao seu perfil |
@@ -131,6 +131,7 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 | RF008 | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água |
 | RF009 | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada |
 | RF010 | O software deve permitir que o usuário assine o plano premium |
+| RF011 | O software deve permitir login ao usuário quando informado credenciais válidas |
 
 ***2.2. Requisitos Não Funcionais***
 
