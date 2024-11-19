@@ -105,6 +105,7 @@ Ele tenta ajustar sua dieta manualmente, pesquisando alimentos e montando refei�
 
 Com sua rotina intensa de estudos e academia, Gabriel frequentemente esquece de acompanhar sua hidratação, o que impacta negativamente seu desempenho nos treinos. Ele sente que não está atingindo seu potencial máximo por falta de uma ferramenta que facilite esse controle.
 
+<img src=https://i.imgur.com/tO7bqgZ.png alt="Cenário - antes" width="1000">
 
 ***Cenário: Depois***
 
@@ -113,6 +114,8 @@ Gabriel utiliza o FitSync para centralizar todas as informações relacionadas �
 Com o FitSync, Gabriel registra seus treinos rapidamente no final de cada sessão, e acompanha seu progresso e metas alcançadas. Ele também monitora sua dieta inserindo as refeições com horários pré-definidos. As notificações inteligentes do FitSync lembram Gabriel dos treinos e refeições no horário definido e, também, de se hidratar em intervalos regulares. 
 
 Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo integrado, ele tem mais tempo para focar nos estudos e treinos, enquanto acompanha sua evolução de forma prática e motivadora em um único sistema.
+
+<img src=https://i.imgur.com/xbNwiOX.png alt="Cenário - depois" width="1000">
 
 <br>
 
