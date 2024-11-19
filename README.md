@@ -117,7 +117,6 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 <img src=https://i.imgur.com/xbNwiOX.png alt="Cenário - depois" width="1000">
 
-<br>
 
 ## 2. Documentos gerais no repositório
 
