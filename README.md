@@ -63,7 +63,9 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+![PERSONA-A](https://github.com/user-attachments/assets/e0ae34c8-9a2c-476f-bac2-618ae2d37bae)
+
+![PERSONA-B](https://github.com/user-attachments/assets/10f9997b-2666-40cb-9151-6a5edc33825b)
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
