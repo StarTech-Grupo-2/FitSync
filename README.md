@@ -117,6 +117,7 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 <img src=https://i.imgur.com/xbNwiOX.png alt="Cenário - depois" width="1000">
 
+
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos Funcionais***
@@ -136,7 +137,24 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+| Identificador | Descrição |
+|---------------|-----------|
+| RFN001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                           |
+| RFN002        | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.    |
+| RFN003        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                           |
+| RFN004        | O tamanho do aplicativo executável não deve exceder 100 MB.                                   |
+| RFN005        | O sistema deve estar disponível para uso durante 23 horas por dia.                            |
+| RFN006        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.           |
+| RFN007        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                       |
+| RFN008        | O sistema deve ser compatível com as plataformas Android e iOS.                               |
+| RFN009        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                  |
+| RFN010        | O sistema deve adotar React Native como padrão de desenvolvimento.                            |
+| RFN011        | O sistema não deve revelar informações pessoais de um usuário para outro sem autorização.      |
+| RFN012        | O sistema deve criptografar todas as comunicações da seção premium conforme a Lei Nº 13.709/2018 (LGPD). |
+| RFN013        | O sistema deve validar e-mails no formato padrão: usuario@provedor.com.                       |
+| RFN014        | O sistema deve validar senhas contendo, no mínimo, 8 caracteres, incluindo letras, números e caracteres especiais. |
+
+<br>
 
 ***2.3. Perguntas***
 
