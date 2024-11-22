@@ -45,7 +45,7 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 |---------------------------------------------------------|--------------------------------------------------------|
 | **Porcentagem de usuário:** 75%                         | **Porcentagem de usuário:** 25%                        |
 | **Faixa etária:** [18, 25]                              | **Faixa etária:** [60+]                             |
-| **Gênero:** 45% feminino, 55% masculino                 | **Gênero:** 22% masculino, 78% feminino                |
+| **Gênero:** 45% feminino, 55% masculino                 | **Gênero:** 80% feminino, 22% masculino                |
 | **Frequência de uso de smartphone:** Muito alta, mais de 5 horas por dia | **Frequência de uso de smartphone:** Moderada, menos de 5 horas por dia |
 | **Estilo de aprendizado:** Aprende usando              | **Estilo de aprendizado:** Aprendem perguntando        |
 | **Faz dieta:** Sim, focada em hipertrofia e definição muscular com baixo consumo de carboidratos e alto em proteínas | **Faz dieta:** Sim, focada em saúde e longevidade      |
@@ -178,5 +178,14 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
+<! --
+https://repositorio.uniceub.br/jspui/bitstream/prefix/15930/1/21503762%2021498848.pdf
 
+https://semanaacademica.org.br/system/files/artigos/_a_importancia_da_dieta_saudavel_associado_a_exercicios_de_resistencia_para_melhoria_da_qualidade_de_vida_em_idosos.pdf
+
+https://educa.ibge.gov.br/jovens/materias-especiais/19051-pnad-esportes-2015-pratica-de-esportes-e-atividades-fisicas.html
+
+https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/15128-falta-de-tempo-e-de-interesse-sao-os-principais-motivos-para-nao-se-praticar-esportes-no-brasil
+ -->
+*/
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
