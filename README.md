@@ -14,15 +14,6 @@ Leticia Bento          - [https://github.com/lettiebento](https://github.com/let
 Maria Clara Nascimento - [https://github.com/mariandj](https://github.com/mariandj)  
 Pamela Berti           - [https://github.com/pamms2](https://github.com/pamms2)
 
-<!-- essa é uma forma de deixar alinhado, mas não sei se é a melhor
-| Nome                  | GitHub Link                           |
-|-----------------------|---------------------------------------|
-| Josiane Batista       | [https://github.com/josibatista](https://github.com/josibatista) |
-| Leticia Bento         | [https://github.com/lettiebento](https://github.com/lettiebento) |
-| Maria Clara Nascimento| [https://github.com/mariandj](https://github.com/mariandj) |
-| Pamela Berti          | [https://github.com/pamms2](https://github.com/pamms2) |
--->
-
 ***1.2.  Nome do Sistema***
 
 FitSync
@@ -122,37 +113,37 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 ***2.1. Requisitos Funcionais***
 
-| Identificador | Descrição |
-|---------------|------------|
-| RF001 | O software deve permitir ao usuário realizar seu cadastro e login |
-| RF002 | O software deve permitir ao usuário logado que registre seu treino |
-| RF003 | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios |
-| RF004 | O software deve permitir que o usuário adicione outros usuários ao seu perfil |
-| RF005 | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil |
-| RF006 | O software deve enviar ao usuários notificações da dieta e água |
-| RF007 | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas |
-| RF008 | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água |
-| RF009 | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada |
-| RF010 | O software deve permitir que o usuário assine o plano premium |
+| Identificador | Descrição | Prioridade | Depende de |
+|---------------|-----------|------------|------------|
+| RF001         | O software deve permitir ao usuário realizar seu cadastro e login                                                     | Alta   | |
+| RF002         | O software deve permitir ao usuário logado que registre seu treino                                                    | Alta   | |
+| RF003         | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios                   | Média  | |
+| RF004         | O software deve permitir que o usuário adicione outros usuários ao seu perfil                                         | Baixa  | |
+| RF005         | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil             | Baixa  | |
+| RF006         | O software deve enviar ao usuários notificações da dieta e água                                                       | Média  | |
+| RF007         | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas | Alta   | |
+| RF008         | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água                                  | Média  | |
+| RF009         | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada                                   | Alta   | |
+| RF010         | O software deve permitir que o usuário assine o plano premium                                                         | Alta   | |
 
 ***2.2. Requisitos Não Funcionais***
 
-| Identificador | Descrição |
-|---------------|-----------|
-| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                           |
-| RNF002        | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.    |
-| RNF003        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                           |
-| RNF004        | O tamanho do aplicativo executável não deve exceder 100 MB.                                   |
-| RNF005        | O sistema deve estar disponível para uso durante 23 horas por dia.                            |
-| RNF006        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.           |
-| RNF007        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                       |
-| RNF008        | O sistema deve ser compatível com as plataformas Android e iOS.                               |
-| RNF009        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                  |
-| RNF010        | O sistema deve adotar React Native como padrão de desenvolvimento.                            |
-| RNF011        | O sistema não deve revelar informações pessoais de um usuário para outro sem autorização.      |
-| RNF012        | O sistema deve criptografar todas as comunicações da seção premium conforme a Lei Nº 13.709/2018 (LGPD). |
-| RNF013        | O sistema deve validar e-mails no formato padrão: usuario@provedor.com.                       |
-| RNF014        | O sistema deve validar senhas contendo, no mínimo, 8 caracteres, incluindo letras, números e caracteres especiais. |
+| Identificador | Descrição | Prioridade | 
+|---------------|-----------|------------|
+| RNFU1         | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                                 | Alta  |
+| RNFU2         | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.                         | Alta  |
+| RNF001        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                                                 | Alta  |
+| RNF002        | O tamanho do aplicativo executável não deve exceder 100 MB.                                                         | Média |
+| RNF003        | O sistema deve estar disponível para uso durante 23 horas por dia.                                                  | Alta  |
+| RNF004        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.                                 | Média |
+| RNF005        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                                            | Alta  |
+| RNF006        | O sistema deve ser compatível com as plataformas Android e iOS.                                                     | Alta  |
+| RNF007        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                                  | Baixa |     
+| RNF008        | O sistema deve adotar React Native como padrão de desenvolvimento.                                                  | Baixa |
+| RNF009        | O sistema não deve revelar informações pessoais de um usuário para outro sem autorização.                           | Alta  |
+| RNF010        | O sistema deve criptografar todas as comunicações da seção premium conforme a Lei Nº 13.709/2018 (LGPD).            | Alta  |
+| RNF011        | O sistema deve validar e-mails no formato padrão: usuario@provedor.com.                                             | Alta  |
+| RNF012        | O sistema deve validar senhas contendo, no mínimo, 8 caracteres, incluindo letras, números e caracteres especiais.  | Alta  |
 
 <br>
 
