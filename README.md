@@ -45,7 +45,7 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 |---------------------------------------------------------|--------------------------------------------------------|
 | **Porcentagem de usuário:** 75%                         | **Porcentagem de usuário:** 25%                        |
 | **Faixa etária:** [18, 25]                              | **Faixa etária:** [60+]                             |
-| **Gênero:** 45% feminino, 55% masculino                 | **Gênero:** 80% feminino, 22% masculino                |
+| **Gênero:** 45% feminino, 55% masculino                 | **Gênero:** 80% feminino, 20% masculino                |
 | **Frequência de uso de smartphone:** Muito alta, mais de 5 horas por dia | **Frequência de uso de smartphone:** Moderada, menos de 5 horas por dia |
 | **Estilo de aprendizado:** Aprende usando              | **Estilo de aprendizado:** Aprendem perguntando        |
 | **Faz dieta:** Sim, focada em hipertrofia e definição muscular com baixo consumo de carboidratos e alto em proteínas | **Faz dieta:** Sim, focada em saúde e longevidade      |
