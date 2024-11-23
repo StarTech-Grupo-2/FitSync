@@ -128,22 +128,23 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 ***2.2. Requisitos Não Funcionais***
 
-| Identificador | Descrição | Prioridade | 
-|---------------|-----------|------------|
-| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                                 | Média |
-| RNF002        | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.                         | Alta  |
-| RNF001        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                                                 | Alta  |
-| RNF002        | O tamanho do aplicativo executável não deve exceder 100 MB.                                                         | Média |
-| RNF003        | O sistema deve estar disponível para uso durante 23 horas por dia.                                                  | Média |
-| RNF004        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.                                 | Alta  |
-| RNF005        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                                            | Alta  |
-| RNF006        | O sistema deve ser compatível com as plataformas Android e iOS.                                                     | Alta  |
-| RNF007        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                                  | Baixa |     
-| RNF008        | O sistema deve adotar React Native como padrão de desenvolvimento.                                                  | Baixa |
-| RNF009        | O sistema não deve revelar informações pessoais de um usuário para outro sem autorização.                           | Alta  |
-| RNF010        | O sistema deve criptografar todas as comunicações da seção premium conforme a Lei Nº 13.709/2018 (LGPD).            | Alta  |
-| RNF011        | O sistema deve validar e-mails no formato padrão: usuario@provedor.com.                                             | Alta  |
-| RNF012        | O sistema deve validar senhas contendo, no mínimo, 8 caracteres, incluindo letras, números e caracteres especiais.  | Alta  |
+| Identificador | Descrição | Categoria | Escopo | Prioridade |
+|---------------|-----------|-----------|--------|------------|
+| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                      | Usabilidade | Sistema             | Média      |
+| RNF002        | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.              | Usabilidade | Sistema             | Alta       |
+| RNF003        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                                      | Desempenho  | Sistema             | Alta       |
+| RNF004        | O tamanho do aplicativo executável não deve exceder 100 MB.                                              | Espaço      | Sistema             | Média      |
+| RNF005        | O sistema deve estar disponível para uso durante 23 horas por dia.                                       | Confiabilidade | Sistema          | Média      |
+| RNF006        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.                      | Confiabilidade | Sistema          | Alta       |
+| RNF007        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                                 | Interoperabilidade | Externo      | Alta       |
+| RNF008        | O sistema deve ser compatível com as plataformas Android e iOS.                                          | Portabilidade | Sistema          | Alta       |
+| RNF009        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                       | Implementação | Organizacional   | Baixa      |
+| RNF010        | O sistema deve adotar React Native como padrão de desenvolvimento.                                       | Padrões    | Organizacional      | Baixa      |
+| RNF011        | O sistema não deve revelar informações pessoais de um usuário para outro sem autorização.                | Privacidade | Externo            | Alta       |
+| RNF012        | O sistema deve criptografar todas as comunicações da seção premium conforme a Lei Nº 13.709/2018 (LGPD). | Legislativo  | Externo             | Alta       |
+| RNF013        | O sistema deve validar e-mails no formato padrão: usuario@provedor.com.                                  |  Segurança  | Sistema             | Alta       |
+| RNF014        | O sistema deve validar senhas contendo, no mínimo, 8 caracteres, incluindo letras, números e caracteres especiais. |  Segurança  | Sistema             | Alta       |
+
 
 <br>
 
