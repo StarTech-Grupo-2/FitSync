@@ -130,12 +130,12 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 | Identificador | Descrição | Prioridade | 
 |---------------|-----------|------------|
-| RNFU1         | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                                 | Alta  |
-| RNFU2         | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.                         | Alta  |
+| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                                 | Média |
+| RNF002        | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.                         | Alta  |
 | RNF001        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                                                 | Alta  |
 | RNF002        | O tamanho do aplicativo executável não deve exceder 100 MB.                                                         | Média |
-| RNF003        | O sistema deve estar disponível para uso durante 23 horas por dia.                                                  | Alta  |
-| RNF004        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.                                 | Média |
+| RNF003        | O sistema deve estar disponível para uso durante 23 horas por dia.                                                  | Média |
+| RNF004        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.                                 | Alta  |
 | RNF005        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                                            | Alta  |
 | RNF006        | O sistema deve ser compatível com as plataformas Android e iOS.                                                     | Alta  |
 | RNF007        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                                  | Baixa |     
@@ -159,7 +159,7 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 7. Na sua opinião, conciliar treinos, dieta e hidratação é essencial para alcançar melhores resultados?  
 8. Como as metas podem te ajudar a melhorar seus resultados?  
 9. O que você acha sobre incentivo por metas e competição?
-- E como isso pode contribuir para motivação de continuar com a rotina saudável?  
+    - E como isso pode contribuir para motivação de continuar com a rotina saudável?  
 10. Qual sua opinião sobre um aplicativo que envie lembretes sobre suas refeições e horários de hidratação?  
 11. Você gerencia sua rotina saudável com auxilio de profissionais como personal e nutricionista?
 11. Como você se sente ao pensar em uma Inteligência Artificial que auxilie na criação de uma rotina de treinos e alimentação?  
