@@ -149,7 +149,21 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+1. O que você espera de um aplicativo voltado para academias?  
+2. Como você organiza seus treinos atualmente?  
+3. Como você organiza sua dieta atualmente?  
+4. Como você avalia seu consumo diário de água e sua rotina de hidratação?  
+5. Você costuma treinar com amigos?  
+    -  Qual é sua opinião sobre combinar treinos com amigos para realizá-los juntos?
+6. Você se sente motivado ao perceber evolução nos seus resultados?    
+7. Na sua opinião, conciliar treinos, dieta e hidratação é essencial para alcançar melhores resultados?  
+8. Como as metas podem te ajudar a melhorar seus resultados?  
+9. O que você acha sobre incentivo por metas e competição?
+- E como isso pode contribuir para motivação de continuar com a rotina saudável?  
+10. Qual sua opinião sobre um aplicativo que envie lembretes sobre suas refeições e horários de hidratação?  
+11. Você gerencia sua rotina saudável com auxilio de profissionais como personal e nutricionista?
+11. Como você se sente ao pensar em uma Inteligência Artificial que auxilie na criação de uma rotina de treinos e alimentação?  
+12. Você pagaria por acesso a uma IA treinada para criar treinos e dietas personalizadas?  
 
 ***2.4. Entrevista***
 
