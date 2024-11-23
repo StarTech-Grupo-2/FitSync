@@ -115,16 +115,16 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 | Identificador | Descrição | Prioridade | Depende de |
 |---------------|-----------|------------|------------|
-| RF001         | O software deve permitir ao usuário realizar seu cadastro e login                                                     | Alta   | |
-| RF002         | O software deve permitir ao usuário logado que registre seu treino                                                    | Alta   | |
-| RF003         | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios                   | Média  | |
-| RF004         | O software deve permitir que o usuário adicione outros usuários ao seu perfil                                         | Baixa  | |
-| RF005         | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil             | Baixa  | |
-| RF006         | O software deve enviar ao usuários notificações da dieta e água                                                       | Média  | |
-| RF007         | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas | Alta   | |
-| RF008         | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água                                  | Média  | |
-| RF009         | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada                                   | Alta   | |
-| RF010         | O software deve permitir que o usuário assine o plano premium                                                         | Alta   | |
+| RF001         | O software deve permitir ao usuário realizar seu cadastro e login                                                     | Alta   | RNF001, RNF005, RNF013, RNF014 |
+| RF002         | O software deve permitir ao usuário logado que registre seu treino                                                    | Alta   | RF001, RF003, RNF005 |
+| RF003         | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios                   | Média  | RF001, RF002 |
+| RF004         | O software deve permitir que o usuário adicione outros usuários ao seu perfil                                         | Baixa  | RF001, RF003, RF005 |
+| RF005         | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil             | Baixa  | RF001, RF002, RF004, RNF005, RNF011 |
+| RF006         | O software deve enviar ao usuários notificações da dieta e água                                                       | Média  | RF001, RF008 |
+| RF007         | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas | Alta   | RF001, RF002, RF008, RNF005 |
+| RF008         | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água                                  | Média  | RF001, RNF005 |
+| RF009         | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada                                   | Alta   | RF001, RF008, RF010, RNF005 |
+| RF010         | O software deve permitir que o usuário assine o plano premium                                                         | Alta   | RF001, RNF002, RNF005, RNF007, RNF011, RNF012 |
 
 ***2.2. Requisitos Não Funcionais***
 
