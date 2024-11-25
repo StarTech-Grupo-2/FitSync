@@ -168,7 +168,13 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+O entrevistado demonstra interesse em um aplicativo para academias que permite acompanhar treinos, evolução de cargas, séries e repetições. Atualmente, organiza os treinos de forma manual em um bloco de notas do celular, combinando referências de treinos antigos e pesquisas online. Sua dieta é baseada em orientações nutricionais de um profissional, mas com ajustes pessoais, e destaca a necessidade de melhorar sua rotina de hidratação, com ajuda de lembretes por conta da rotina corrida.
+
+Mesmo treinando sozinho, ele acredita que treinar com amigos é motivador. As evoluções nos resultados são uma forma de motivação para ele, assim como o uso de metas ​​para se esforçar mais.
+
+Sobre a Inteligência Artificial (IA), o entrevistado vê uma ferramenta promissora para auxiliar nos treinos, mas pontua que na criação de dietas, a IA tem que considerar particularidades individuais, como intolerâncias, objetivos, rotina e gostos pessoais. Ele demonstrou interesse em pagar por um serviço de IA que ofereça planos personalizados.
+
+https://drive.google.com/file/d/1LsTycWJbRTWA-4ZzccroE87mWrH2WIKi/view?usp=drive_link
 
 ***2.5. Histórias do Usuário***
 
