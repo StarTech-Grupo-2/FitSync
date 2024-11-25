@@ -14,15 +14,6 @@ Leticia Bento          - [https://github.com/lettiebento](https://github.com/let
 Maria Clara Nascimento - [https://github.com/mariandj](https://github.com/mariandj)  
 Pamela Berti           - [https://github.com/pamms2](https://github.com/pamms2)
 
-<!-- essa é uma forma de deixar alinhado, mas não sei se é a melhor
-| Nome                  | GitHub Link                           |
-|-----------------------|---------------------------------------|
-| Josiane Batista       | [https://github.com/josibatista](https://github.com/josibatista) |
-| Leticia Bento         | [https://github.com/lettiebento](https://github.com/lettiebento) |
-| Maria Clara Nascimento| [https://github.com/mariandj](https://github.com/mariandj) |
-| Pamela Berti          | [https://github.com/pamms2](https://github.com/pamms2) |
--->
-
 ***1.2.  Nome do Sistema***
 
 FitSync
@@ -53,8 +44,8 @@ Perfil do Usuário B: Representando 25% dos usuários, esse perfil é formado po
 | **Perfil do Usuário A**                                 | **Perfil do Usuário B**                                |
 |---------------------------------------------------------|--------------------------------------------------------|
 | **Porcentagem de usuário:** 75%                         | **Porcentagem de usuário:** 25%                        |
-| **Faixa etária:** [18, 25]                              | **Faixa etária:** [30, 60]                             |
-| **Gênero:** 55% masculino, 45% feminino                 | **Gênero:** 40% masculino, 60% feminino                |
+| **Faixa etária:** [18, 25]                              | **Faixa etária:** [60+]                             |
+| **Gênero:** 45% feminino, 55% masculino                 | **Gênero:** 80% feminino, 20% masculino                |
 | **Frequência de uso de smartphone:** Muito alta, mais de 5 horas por dia | **Frequência de uso de smartphone:** Moderada, menos de 5 horas por dia |
 | **Estilo de aprendizado:** Aprende usando              | **Estilo de aprendizado:** Aprendem perguntando        |
 | **Faz dieta:** Sim, focada em hipertrofia e definição muscular com baixo consumo de carboidratos e alto em proteínas | **Faz dieta:** Sim, focada em saúde e longevidade      |
@@ -122,43 +113,58 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 ***2.1. Requisitos Funcionais***
 
-| Identificador | Descrição |
-|---------------|------------|
-| RF001 | O software deve permitir ao usuário realizar seu cadastro e login |
-| RF002 | O software deve permitir ao usuário logado que registre seu treino |
-| RF003 | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios |
-| RF004 | O software deve permitir que o usuário adicione outros usuários ao seu perfil |
-| RF005 | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil |
-| RF006 | O software deve enviar ao usuários notificações da dieta e água |
-| RF007 | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas |
-| RF008 | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água |
-| RF009 | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada |
-| RF010 | O software deve permitir que o usuário assine o plano premium |
+| Identificador | Descrição | Prioridade | Depende de |
+|---------------|-----------|------------|------------|
+| RF001         | O software deve permitir ao usuário realizar seu cadastro e login                                                     | Alta   | RNF001, RNF005, RNF013, RNF014 |
+| RF002         | O software deve permitir ao usuário logado que registre seu treino                                                    | Alta   | RF001, RF003, RNF005 |
+| RF003         | O software deve proporcionar interface de checklist para o usuário fazer seu registro de exercícios                   | Média  | RF001, RF002 |
+| RF004         | O software deve permitir que o usuário adicione outros usuários ao seu perfil                                         | Baixa  | RF001, RF003, RF005 |
+| RF005         | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil             | Baixa  | RF001, RF002, RF004, RNF005, RNF011 |
+| RF006         | O software deve enviar ao usuários notificações da dieta e água                                                       | Média  | RF001, RF008 |
+| RF007         | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas | Alta   | RF001, RF002, RF008, RNF005 |
+| RF008         | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água                                  | Média  | RF001, RNF005 |
+| RF009         | O software deve permitir que o usuário solicite treinos e dietas à IA personalizada                                   | Alta   | RF001, RF008, RF010, RNF005 |
+| RF010         | O software deve permitir que o usuário assine o plano premium                                                         | Alta   | RF001, RNF002, RNF005, RNF007, RNF011, RNF012 |
 
 ***2.2. Requisitos Não Funcionais***
 
-| Identificador | Descrição |
-|---------------|-----------|
-| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                           |
-| RNF002        | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.    |
-| RNF003        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                           |
-| RNF004        | O tamanho do aplicativo executável não deve exceder 100 MB.                                   |
-| RNF005        | O sistema deve estar disponível para uso durante 23 horas por dia.                            |
-| RNF006        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.           |
-| RNF007        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                       |
-| RNF008        | O sistema deve ser compatível com as plataformas Android e iOS.                               |
-| RNF009        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                  |
-| RNF010        | O sistema deve adotar React Native como padrão de desenvolvimento.                            |
-| RNF011        | O sistema não deve revelar informações pessoais de um usuário para outro sem autorização.      |
-| RNF012        | O sistema deve criptografar todas as comunicações da seção premium conforme a Lei Nº 13.709/2018 (LGPD). |
-| RNF013        | O sistema deve validar e-mails no formato padrão: usuario@provedor.com.                       |
-| RNF014        | O sistema deve validar senhas contendo, no mínimo, 8 caracteres, incluindo letras, números e caracteres especiais. |
+| Identificador | Descrição | Categoria | Escopo | Prioridade |
+|---------------|-----------|-----------|--------|------------|
+| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                      | Usabilidade | Sistema             | Média      |
+| RNF002        | O usuário deve poder realizar a assinatura premium utilizando autenticação em dois fatores.              | Usabilidade | Sistema             | Alta       |
+| RNF003        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                                      | Desempenho  | Sistema             | Alta       |
+| RNF004        | O tamanho do aplicativo executável não deve exceder 100 MB.                                              | Espaço      | Sistema             | Média      |
+| RNF005        | O sistema deve estar disponível para uso durante 23 horas por dia.                                       | Confiabilidade | Sistema          | Média      |
+| RNF006        | O sistema deve realizar o backup dos dados do usuário em menos de uma hora por dia.                      | Confiabilidade | Sistema          | Alta       |
+| RNF007        | O sistema deve ser capaz de interagir com módulos de sistemas bancários.                                 | Interoperabilidade | Externo      | Alta       |
+| RNF008        | O sistema deve ser compatível com as plataformas Android e iOS.                                          | Portabilidade | Sistema          | Alta       |
+| RNF009        | O sistema deve ser implementado utilizando a linguagem JavaScript.                                       | Implementação | Organizacional   | Baixa      |
+| RNF010        | O sistema deve adotar React Native como padrão de desenvolvimento.                                       | Padrões    | Organizacional      | Baixa      |
+| RNF011        | O sistema não deve revelar informações pessoais de um usuário para outro sem autorização.                | Privacidade | Externo            | Alta       |
+| RNF012        | O sistema deve criptografar todas as comunicações da seção premium conforme a Lei Nº 13.709/2018 (LGPD). | Legislativo  | Externo             | Alta       |
+| RNF013        | O sistema deve validar e-mails no formato padrão: usuario@provedor.com.                                  |  Segurança  | Sistema             | Alta       |
+| RNF014        | O sistema deve validar senhas contendo, no mínimo, 8 caracteres, incluindo letras, números e caracteres especiais. |  Segurança  | Sistema             | Alta       |
+
 
 <br>
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+1. O que você espera de um aplicativo voltado para academias?  
+2. Como você organiza seus treinos atualmente?  
+3. Como você organiza sua dieta atualmente?  
+4. Como você avalia seu consumo diário de água e sua rotina de hidratação?  
+5. Você costuma treinar com amigos?  
+    -  Qual é sua opinião sobre combinar treinos com amigos para realizá-los juntos?
+6. Você se sente motivado ao perceber evolução nos seus resultados?    
+7. Na sua opinião, conciliar treinos, dieta e hidratação é essencial para alcançar melhores resultados?  
+8. Como as metas podem te ajudar a melhorar seus resultados?  
+9. O que você acha sobre incentivo por metas e competição?
+    - E como isso pode contribuir para motivação de continuar com a rotina saudável?  
+10. Qual sua opinião sobre um aplicativo que envie lembretes sobre suas refeições e horários de hidratação?  
+11. Você gerencia sua rotina saudável com auxilio de profissionais como personal e nutricionista?
+11. Como você se sente ao pensar em uma Inteligência Artificial que auxilie na criação de uma rotina de treinos e alimentação?  
+12. Você pagaria por acesso a uma IA treinada para criar treinos e dietas personalizadas?  
 
 ***2.4. Entrevista***
 
@@ -187,5 +193,14 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
+<! --
+https://repositorio.uniceub.br/jspui/bitstream/prefix/15930/1/21503762%2021498848.pdf
 
+https://semanaacademica.org.br/system/files/artigos/_a_importancia_da_dieta_saudavel_associado_a_exercicios_de_resistencia_para_melhoria_da_qualidade_de_vida_em_idosos.pdf
+
+https://educa.ibge.gov.br/jovens/materias-especiais/19051-pnad-esportes-2015-pratica-de-esportes-e-atividades-fisicas.html
+
+https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/15128-falta-de-tempo-e-de-interesse-sao-os-principais-motivos-para-nao-se-praticar-esportes-no-brasil
+ -->
+*/
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
