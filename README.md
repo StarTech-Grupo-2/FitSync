@@ -178,7 +178,57 @@ https://drive.google.com/file/d/1LsTycWJbRTWA-4ZzccroE87mWrH2WIKi/view?usp=drive
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+### US001
+- **Como** um usuário,  
+- **Eu quero** realizar meu cadastro e login,  
+- **Para** acessar as funcionalidades do aplicativo: gerenciar meus treinos, dietas e consumo de água.  
+
+### US002
+- **Como** um usuário logado,  
+- **Eu quero** registrar meu treino,  
+- **Para** acompanhar minha rotina de exercícios e metas, para melhorar meu desempenho.  
+
+### US003
+- **Como** um usuário logado,  
+- **Eu quero** preencher e atualizar informações de exercícios,  
+- **Para** manter meus registros organizados e atualizados.  
+
+### US004
+- **Como** um usuário logado,  
+- **Eu quero** adicionar outros usuários ao meu perfil,  
+- **Para** possibilitar a visualização de informações entre amigos de plataforma.  
+
+### US005
+- **Como** um usuário logado,  
+- **Eu quero** compartilhar treinos com outros usuários do meu perfil,  
+- **Para** colaborar e/ou competir com eles, aumentando nossa frequência de treinos.  
+
+### US006
+- **Como** um usuário logado,  
+- **Eu quero** receber notificações sobre minha dieta e consumo de água,  
+- **Para** cumprir meus objetivos de saúde e bem-estar.  
+
+### US007
+- **Como** um usuário logado,  
+- **Eu quero** consultar meus registros de exercícios, treinos e metas,  
+- **Para** acompanhar meu progresso de forma clara.  
+
+### US008
+- **Como** um usuário logado,  
+- **Eu quero** consultar meus registros de dieta e consumo de água,  
+- **Para** monitorar minha frequência de alimentação e hidratação diária, melhorando o bem-estar como um todo.  
+
+### US009
+- **Como** um usuário logado e assinante premium,  
+- **Eu quero** solicitar treinos e dietas à IA personalizada,  
+- **Para** obter recomendações específicas para atingir meus objetivos.  
+
+### US010
+- **Como** um usuário logado,  
+- **Eu quero** assinar o plano premium,  
+- **Para** desbloquear funcionalidades exclusivas como a IA personalizada.  
+
+<br>
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
