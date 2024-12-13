@@ -235,8 +235,9 @@ https://drive.google.com/file/d/1LsTycWJbRTWA-4ZzccroE87mWrH2WIKi/view?usp=drive
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
 
 ***2.7. Diagramas de Atividades***
+- Diagrama de Atividades - Consulta de Treino
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+<img src=https://i.imgur.com/RL6Wd1C.png alt="Diagrama de Atividades - Consulta de Treino" width="1050">
 
 ***2.8. Matrizes de Rastreabilidade***
 
