@@ -247,6 +247,8 @@ https://drive.google.com/file/d/1LsTycWJbRTWA-4ZzccroE87mWrH2WIKi/view?usp=drive
 
 [*<Protótipo>*](https://ninjamock.com/s/2F4S1Lx)
 
+![FITSYNC](https://github.com/user-attachments/assets/333f1642-425b-4b1b-ba0c-2d4cbdd3a300)
+
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
