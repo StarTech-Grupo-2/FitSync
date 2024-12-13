@@ -245,7 +245,7 @@ https://drive.google.com/file/d/1LsTycWJbRTWA-4ZzccroE87mWrH2WIKi/view?usp=drive
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+[*<Protótipo>*](https://ninjamock.com/s/2F4S1Lx)
 
 ## Referências
 
