@@ -230,18 +230,26 @@ https://drive.google.com/file/d/1LsTycWJbRTWA-4ZzccroE87mWrH2WIKi/view?usp=drive
 
 <br>
 
-***2.6. Diagramas de Caso de Uso e Especificações***
+### Diagramas
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+Todos os diagramas abaixo listados encontram-se em um projeto astah disponível neste repositório: [Diagramas projeto FitSync](StarTech-Grupo-2/FitSync/DiagramasFitSyncGP2.asta).
+
+<br>
+
+***2.6. Diagramas de Caso de Uso***
+
+- Partição central do Diagrama de Caso de Uso   
+
+<img src=StarTech-Grupo-2/FitSync/Imagens/DiagramaCasoDeUso.png alt="Diagrama de Caso de Uso PARCIAL" width="1050">
 
 ***2.7. Diagramas de Atividades***
 - Diagrama de Atividades - Consulta de Treino
 
 <img src=https://i.imgur.com/RL6Wd1C.png alt="Diagrama de Atividades - Consulta de Treino" width="1050">
 
-***2.8. Matrizes de Rastreabilidade***
+***2.8. Diagrama de Classe***
 
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+<img src=StarTech-Grupo-2/FitSync/Imagens/DiagramaDeClasse.png alt="Diagrama de Classe" width="1050">
 
 ***2.9. Protótipos***
 
