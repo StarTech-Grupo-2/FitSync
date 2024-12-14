@@ -115,11 +115,11 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 | Identificador | Descrição | Prioridade | Depende de |
 |---------------|-----------|------------|------------|
-| RF001         | O software deve permitir ao usuário realizar seu cadastro e login                                                             | Alta   | RNF001, RNF005, RNF013, RNF014 |
-| RF002         | O software deve permitir ao usuário logado que registre seu treino                                                            | Alta   | RF001, RF003, RNF005 |
+| RF001         | O software deve permitir ao usuário realizar seu cadastro e login via e-mail                                                              | Alta   | RNF001, RNF005, RNF013, RNF014 |
+| RF002         | O software deve permitir ao usuário logado que registre seu treino com exercícios e cargas                                                            | Alta   | RF001, RF003, RNF005 |
 | RF003         | O software deve proporcionar interface de campo de preenchimento para o usuário fazer seu registro e manutenção de exercícios | Média  | RF001, RF002 |
 | RF004         | O software deve permitir que o usuário adicione outros usuários ao seu perfil                                                 | Baixa  | RF001, RF003, RF005 |
-| RF005         | O software deve permitir que o usuário compartilhe treinos com outros usuários já inseridos em seu perfil                     | Baixa  | RF001, RF002, RF004, RNF005, RNF011 |
+| RF005         | O software deve permitir que o usuário compartilhe treinos com usuários adicionados em seu perfil                     | Baixa  | RF001, RF002, RF004, RNF005, RNF011 |
 | RF006         | O software deve enviar ao usuários notificações da dieta e água                                                               | Média  | RF001, RF008 |
 | RF007         | O software deve permitir que o usuário logado consulte os seus registros de exercícios, treinos e metas estabelecidas         | Alta   | RF001, RF002, RF008, RNF005 |
 | RF008         | O software deve permitir que o usuário logado consulte a sua dieta e consumo de água                                          | Média  | RF001, RNF005 |
@@ -130,7 +130,7 @@ Agora, Gabriel sente que está aproveitando ao máximo seu potencial. Com tudo i
 
 | Identificador | Descrição | Categoria | Escopo | Prioridade |
 |---------------|-----------|-----------|--------|------------|
-| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                                | Usabilidade        | Sistema        | Média  |
+| RNF001        | O usuário deve conseguir finalizar o cadastro com apenas um clique.                                                | Usabilidade        | Sistema        | Alta   |
 | RNF002        | O sistema deve implementar autenticação em dois fatores exclusivamente para operações críticas, como a ativação de assinatura premium e alteração de senha, garantindo proteção contra acessos não autorizados.                              | Segurança          | Sistema        | Alta   |
 | RNF003        | O sistema deve suportar simultaneamente, no mínimo, 1.000 usuários.                                                | Desempenho         | Sistema        | Alta   |
 | RNF004        | O tamanho do aplicativo executável não deve exceder 100 MB.                                                        | Espaço             | Sistema        | Média  |
