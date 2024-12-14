@@ -240,7 +240,7 @@ Todos os diagramas abaixo listados encontram-se em um projeto astah disponível 
 
 - Partição central do Diagrama de Caso de Uso   
 
-<img src=StarTech-Grupo-2/FitSync/Imagens/DiagramaCasoDeUso.png alt="Diagrama de Caso de Uso PARCIAL" width="1050">
+<img src=https://raw.githubusercontent.com/StarTech-Grupo-2/FitSync/refs/heads/main/Imagens/DiagramaCasoDeUso.png alt="Diagrama de Caso de Uso PARCIAL" width="1050">
 
 ***2.7. Diagramas de Atividades***
 - Diagrama de Atividades - Consulta de Treino
@@ -249,7 +249,7 @@ Todos os diagramas abaixo listados encontram-se em um projeto astah disponível 
 
 ***2.8. Diagrama de Classe***
 
-<img src=StarTech-Grupo-2/FitSync/Imagens/DiagramaDeClasse.png alt="Diagrama de Classe" width="1050">
+<img src=https://raw.githubusercontent.com/StarTech-Grupo-2/FitSync/refs/heads/main/Imagens/DiagramaDeClasse.png alt="Diagrama de Classe" width="1050">
 
 ***2.9. Protótipos***
 
