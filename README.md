@@ -232,7 +232,7 @@ https://drive.google.com/file/d/1LsTycWJbRTWA-4ZzccroE87mWrH2WIKi/view?usp=drive
 
 ### Diagramas
 
-Todos os diagramas abaixo listados encontram-se em um projeto astah disponível neste repositório: [Diagramas projeto FitSync](StarTech-Grupo-2/FitSync/DiagramasFitSyncGP2.asta).
+Todos os diagramas abaixo listados encontram-se em um projeto astah disponível neste repositório: [Diagramas projeto FitSync](https://github.com/StarTech-Grupo-2/FitSync/blob/main/DiagramasFitSyncGP2.asta).
 
 <br>
 
